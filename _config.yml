@@ -1,7 +1,7 @@
 name: AndyOlympics
 favicon: null
-layout_spectrum: 0.15998874395154417
-typography_spectrum: 0.3845738514792174
+layout_spectrum: 1
+typography_spectrum: 0.69587
 title: The AndyOlympics
 cta:
   domain: null
@@ -16,9 +16,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0.5739377569407225
-  lightness: 0.869429531507194
+  brandColors:
+    - '#fdf93e'
+    - '#fcfcfc'
+    - '#141414'
+    - '#cfcfcf'
+    - '#4c4c4c'
+  brandStrength: 0.75
+  lightness: 0.6875
   saturation: 0.32936122897081077
-  rhythmicContrast: 0.3597207781858742
+  rhythmicContrast: 0.5
 purpose: []
