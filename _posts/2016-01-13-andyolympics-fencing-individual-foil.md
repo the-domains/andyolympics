@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=EBHmYXFnWjc'
 title: AndyOlympics Fencing Individual Foil
-datePublished: '2016-01-13T11:18:05.755Z'
-dateModified: '2016-01-13T11:16:52.172Z'
+datePublished: '2016-01-13T11:18:05.895Z'
+dateModified: '2016-01-13T11:09:09.841Z'
 sourcePath: _posts/2016-01-13-andyolympics-fencing-individual-foil.md
 published: true
 inFeed: true
