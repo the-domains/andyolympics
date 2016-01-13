@@ -4,22 +4,8 @@
         <description><![CDATA[The AndyOlympics]]></description>
         <link>https://thegrid.ai/andyolympics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 11:19:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 11:18:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andyolympics/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[AndyOlympics Handball]]></title>
-            <description><![CDATA[<article><h1>AndyOlympics Handball</h1><p>Event #3 Handball Sydney Uni Gold VS Sydney Uni Blue 15/8/15 Sydney Olympic Park Result - Loss (34-17)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c237de56d3a55ff7f5287072f1b669f868b64d7.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=fsK0kABy3c0</link>
-            <guid isPermaLink="false">a164a2d7-1cff-4185-aa60-1ee0773b50c9</guid>
-            <pubDate>Wed, 13 Jan 2016 11:18:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AndyOlympics Fencing Individual Sabre]]></title>
-            <description><![CDATA[<article><h1>AndyOlympics Fencing Individual Sabre</h1><p>Fencing Individual Sabre Sydney University Fencing Club Sabre Championships Sydney University 5/9/15 Result - LOSS</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e1b5e435d8f5b2890c922175b8e8d2e05edebb6.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=hnVWXJ2E3ww</link>
-            <guid isPermaLink="false">036f556f-9acb-4c6f-8ba6-1c244f2bd5a9</guid>
-            <pubDate>Wed, 13 Jan 2016 11:18:06 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[AndyOlympics Tennis]]></title>
             <description><![CDATA[<article><h1>AndyOlympics Tennis</h1><p>Tennis singles, doubles and mixed doubles Sydney University Lawn Tennis Club Club Championships 29/8/2015 Results - All losses</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b677619f69d28d83bbf216cdbe93ac8048781f98.jpg"></article>]]></description>
@@ -75,6 +61,20 @@
             <link>https://www.youtube.com/watch?v=SVPZWFaAX0c</link>
             <guid isPermaLink="false">1d636e19-fe73-4f0a-a314-2d98b7cc62f3</guid>
             <pubDate>Wed, 13 Jan 2016 11:18:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AndyOlympics Cycling TT]]></title>
+            <description><![CDATA[<article><h1>AndyOlympics Cycling TT</h1><p>Cycling TT 3/1/16 Calga NSW</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4f414b298eb18b295ecd48ba9737656b018ff23a.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=XbCmP-tpsPs</link>
+            <guid isPermaLink="false">64dbfddc-5d10-48e7-92fa-6be59252ec43</guid>
+            <pubDate>Wed, 13 Jan 2016 11:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Introduction to the 365 Olympiad]]></title>
+            <description><![CDATA[<article><h1>Introduction to the 365 Olympiad</h1><p>Thank you for your support. Please donate today and help raise $50,000! https://www.paralympic.org.au/fundraising-and-donations/make-a-donation</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a583dd0f25bb0f2c5fde3c8bf2b56a92d0b18997.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=yYaXz-Rdu5o</link>
+            <guid isPermaLink="false">d535ab65-6eef-4555-9471-f1f95f29139a</guid>
+            <pubDate>Wed, 13 Jan 2016 11:11:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
