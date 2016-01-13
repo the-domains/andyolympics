@@ -4,8 +4,15 @@
         <description><![CDATA[The AndyOlympics]]></description>
         <link>https://thegrid.ai/andyolympics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 11:18:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 11:18:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andyolympics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AndyOlympics Down Fitz's]]></title>
+            <description><![CDATA[<article><h1>AndyOlympics Down Fitz's</h1><p>The descent down Fitz's hill in Canberra on the weekend as part of Fitz's Challenge. Coming up this hill earlier was a bit of a challenge! I made it around 160km in on the 255km course. Had some health issues and was forced to pull out after a long grind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e26b2e2dee923745c40b7d6a78f2cef3d275688.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=FUmf-w2UWn8</link>
+            <guid isPermaLink="false">df7eb0d6-a427-4e5f-815b-bb7a6c4c5e75</guid>
+            <pubDate>Wed, 13 Jan 2016 11:18:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AndyOlympics Athletics II]]></title>
             <description><![CDATA[<article><h1>AndyOlympics Athletics II</h1><p>UTS Norths Summer Comp 5/12/15 1500m, 400m, 100m, long jump, javelin</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f796e46f5c93284249e6b43831e5638b9fb358c7.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/andyolympics/d5a25edf-91d8-4b9c-8eb3-fc1878d43be7/index.html</link>
             <guid isPermaLink="false">d5a25edf-91d8-4b9c-8eb3-fc1878d43be7</guid>
             <pubDate>Wed, 13 Jan 2016 11:05:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21f62b45-f031-406b-a662-c5742be499fa.jpg">]]></description>
-            <link>https://thegrid.ai/andyolympics/105dcefe-7d5e-4ae7-b3cc-165813dcc307/index.html</link>
-            <guid isPermaLink="false">105dcefe-7d5e-4ae7-b3cc-165813dcc307</guid>
-            <pubDate>Mon, 16 Nov 2015 04:01:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
