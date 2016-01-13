@@ -4,8 +4,15 @@
         <description><![CDATA[The AndyOlympics]]></description>
         <link>https://thegrid.ai/andyolympics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 11:18:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jan 2016 11:18:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andyolympics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[AndyOlympics Marathon]]></title>
+            <description><![CDATA[<article><h1>AndyOlympics Marathon</h1><p>Sydney Runnin Festival 20/09/2015 Marathon Time 5:15 Time in pain 5:00</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bcfb73de721d9e1ad0d33a92c4ff687a523ffba.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=sSfKu01jdqg</link>
+            <guid isPermaLink="false">c2835cfb-6faa-4c90-921d-1d1c38eabc42</guid>
+            <pubDate>Wed, 13 Jan 2016 11:18:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[AndyOlympics Down Fitz's]]></title>
             <description><![CDATA[<article><h1>AndyOlympics Down Fitz's</h1><p>The descent down Fitz's hill in Canberra on the weekend as part of Fitz's Challenge. Coming up this hill earlier was a bit of a challenge! I made it around 160km in on the 255km course. Had some health issues and was forced to pull out after a long grind.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e26b2e2dee923745c40b7d6a78f2cef3d275688.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=vJHH72VLscE</link>
             <guid isPermaLink="false">ba7b6e0e-fa45-48d8-b40b-3bac48e38558</guid>
             <pubDate>Wed, 13 Jan 2016 11:11:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/801a9add-0297-4901-9b0c-fd274e88c464.png">]]></description>
-            <link>https://thegrid.ai/andyolympics/d5a25edf-91d8-4b9c-8eb3-fc1878d43be7/index.html</link>
-            <guid isPermaLink="false">d5a25edf-91d8-4b9c-8eb3-fc1878d43be7</guid>
-            <pubDate>Wed, 13 Jan 2016 11:05:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
